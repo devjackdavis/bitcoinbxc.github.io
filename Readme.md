@@ -1,21 +1,21 @@
 Bitcoin Classic BXC 
-
+<br>
 Fork of the PIVX blockchain, which forked from the BTC blockchain a year earlier. 
 The goal of Bitcoin Classic is to fulfill the original vision of the Bitcoin protocol and 
 design as described in Satoshi Nakamoto’s white paper, with a hybrid POW and POS consensus approach.
-
+<br>
 Explorer http://bitcoinbxc.com:3001/
-
+<br>
 Github https://github.com/devjackdavis/bitcoinclassic
-
+<br>
 Coinmarket cap https://coinmarketcap.com/currencies/bitcoin-classic/
-
+<br>
 Wallet https://github.com/devjackdavis/bitcoinclassic/releases
-
+<br>
 Exchanges: Graviex, Mercatox, SouthXchange, and Finebox
-
+<br>
 Supply 17994415 coins.
-
+<br>
 Network
 addnode=bitcoinbxc.com
 addnode=47.252.6.71
